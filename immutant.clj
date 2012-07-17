@@ -1,7 +1,6 @@
 (ns immutant-demo.init
   (:use immutant-demo.core)
-  (:require [immutant.messaging :as messaging]
-            [immutant.web :as web]))
+  (:require [immutant.web :as web]))
 
 ;; This file will be loaded when the application is deployed to Immutant, and
 ;; can be used to start services your app needs. Examples:
