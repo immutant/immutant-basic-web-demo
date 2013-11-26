@@ -1,4 +1,4 @@
-(ns immutant-demo.init
+(ns immutant.init
   (:use immutant-demo.core)
   (:require [immutant.web :as web]))
 
